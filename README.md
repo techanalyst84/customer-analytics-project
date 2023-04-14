@@ -1,4 +1,7 @@
 # customer-analytics-project
+Company A’s Insurance Market Reference Asset (IMRA) is enabled with Entity Resolution capabilities to create a 360-degree view of reconciled and connected view of a business entity profiles at a specified location level, based on 1st and 3rd party data source information for business entities in the U.S. commercial market. 
+
+
   Introduction 
   SWOT and Problem Statement 
   Exploratory Data Analysis 
